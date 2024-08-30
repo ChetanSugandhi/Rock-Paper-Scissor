@@ -14,11 +14,11 @@ This is a simple Rock-Paper-Scissor Game implemented using Web Development Techn
 
 **Technologies Used**
 
--**HTML:** Structure and layout of the game.
+- **HTML:** Structure and layout of the game.
 
--**CSS**: Styling and responsive design.
+- **CSS**: Styling and responsive design.
 
--**JavaScript:** Game logic and interactivity.
+- **JavaScript:** Game logic and interactivity.
 
 **Usage**
 
