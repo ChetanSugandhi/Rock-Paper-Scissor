@@ -5,7 +5,6 @@ This is a simple Rock-Paper-Scissor Game implemented using Web Development Techn
 **Features**
 
 **-User vs Computer:** Play against the computer, which randomly selects rock, paper, or scissors.
-
 -**Real-Time Feedback:** Displays the result of each round immediately.
 
 -**Interactive UI:** User-friendly and responsive design for a seamless experience.
